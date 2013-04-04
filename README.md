@@ -12,6 +12,10 @@
 内容
 ----
 
+### 参考资源
+
+* 自然语言处理相关参考书和在线课程
+
 ### shell练习
 
 1. [shell基础练习](https://github.com/Oneplus/scir-training-day/tree/master/1-shell-practice/1-fundamental-of-shell)
@@ -31,6 +35,8 @@
 用法
 ----
 
+### 使用Git
+
 首先需要将训练题下载下来，这个过程中，可能需要一些git的知识。
 具体来讲，你需要做如下几件事：
 
@@ -41,7 +47,13 @@
 
 然后开始做题吧！
 
+---
+
 * 用10分钟了解一下[git简易指南](http://rogerdudler.github.com/git-guide/index.zh.html)，磨刀不误砍柴工。
+
+---
+
+### 例题
 
 举shell练习中的第一题为例，来说明应该如何做题。
 
